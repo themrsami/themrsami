@@ -1,5 +1,5 @@
-# 💫 About Me:
-Javascript<br>React.js<br>Next.js<br>React-Native<br>Python<br>Autohotkey<br>
+
+![LEARN](https://github.com/user-attachments/assets/494b07dc-bd99-4537-b9fc-72623b11f4b9)
 
 
 ## 🌐 Socials:
