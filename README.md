@@ -1,4 +1,5 @@
-![LEARN](https://github.com/user-attachments/assets/494b07dc-bd99-4537-b9fc-72623b11f4b9)
+![image](https://github.com/user-attachments/assets/1752333b-a4d5-4b1d-91be-8eb5b79a6fd9)
+
 
 # 💫 About Me:
 👋 Hi! I'm a passionate Web Developer.  <br>🚀 Skilled in building dynamic web apps with Next.js.
