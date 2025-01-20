@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Usama%20(themrsami)&fontSize=60&animation=fadeIn&fontColor=fff" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000&height=200&section=header&text=Usama%20(themrsami)&fontSize=60&animation=fadeIn&fontColor=fff" />
 </div>
 
 <div align="center">
@@ -104,5 +104,5 @@
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000&height=100&section=footer" />
 </div>
