@@ -1,9 +1,9 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000&height=200&section=header&text=Usama%20(themrsami)&fontSize=60&animation=fadeIn&fontColor=fff" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000&height=200&section=header&text=Usama%20Nazir%20(themrsami)&fontSize=60&animation=fadeIn&fontColor=fff" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer;Automation+Expert;UI+Component+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=50&duration=3000&pause=500&color=000000&center=true&vCenter=true&width=600&height=100&lines=Next.js+Developer;Automation+Expert" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -50,7 +50,7 @@
 <h3 align="center">Next.js Form Generator CLI</h3>
 <div align="center">
 <a href="https://github.com/themrsami/nextjs-shaden-zod-form-generator-cli-based" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=themrsami&repo=nextjs-shaden-zod-form-generator-cli-based&theme=tokyonight&hide_border=true" width="400" alt="form-gen"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=themrsami&repo=nextjs-shadcn-zod-form-generator-cli-based&theme=tokyonight&hide_border=true" width="400" alt="form-gen"/>
 </a>
 <p><strong>CLI Form Generator</strong> - Generate Next.js forms with server actions, Zod validation, and MongoDB integration.</p>
 </div>
@@ -73,15 +73,6 @@
   ```
 </div>
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=themrsami&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&custom_title=GitHub%20Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=themrsami&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" />
-</div>
 
 ## 🤝 Connect & Collaborate
 
