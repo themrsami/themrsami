@@ -1,99 +1,70 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000&height=200&section=header&text=Usama%20Nazir%20(themrsami)&fontSize=60&animation=fadeIn&fontColor=fff" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=000000&center=true&vCenter=true&width=500&height=70&lines=Hi+there+👋;I'm+Usama+Nazir;Next.js+Developer+&+Automation+Expert" alt="Typing SVG" />
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=50&duration=3000&pause=500&color=000000&center=true&vCenter=true&width=600&height=100&lines=Next.js+Developer;Automation+Expert" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=themrsami&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true" width="800px"/>
-</div>
-
-## 🎨 Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">PacmanUI</h3>
-<div align="center">
-<a href="https://github.com/themrsami/pacmanui" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=themrsami&repo=pacmanui&theme=tokyonight&hide_border=true" width="400" alt="PacmanUI"/>
-</a>
-<p><strong>React UI Library with 93% Test Coverage</strong> - Modern component library with beautiful animations using Tailwind CSS & Framer Motion.</p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">React Tailwind Builder</h3>
-<div align="center">
-<a href="https://github.com/themrsami/React-Tailwind-Builder-Drag-Drop" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=themrsami&repo=React-Tailwind-Builder-Drag-Drop&theme=tokyonight&hide_border=true" width="400" alt="builder"/>
-</a>
-<p><strong>Visual Layout Builder</strong> - Drag-and-drop interface for creating React components with TailwindCSS.</p>
-</div>
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-<h3 align="center">Next.js Redux Toolkit Boilerplate</h3>
-<div align="center">
-<a href="https://github.com/themrsami/Next.js-with-Redux-Toolkit-Clean-BoilerPlate" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=themrsami&repo=Next.js-with-Redux-Toolkit-Clean-BoilerPlate&theme=tokyonight&hide_border=true" width="400" alt="boilerplate"/>
-</a>
-<p><strong>Modern Web Architecture</strong> - Clean boilerplate for Next.js 14+ with Redux Toolkit integration.</p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">Next.js Form Generator CLI</h3>
-<div align="center">
-<a href="https://github.com/themrsami/nextjs-shaden-zod-form-generator-cli-based" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=themrsami&repo=nextjs-shadcn-zod-form-generator-cli-based&theme=tokyonight&hide_border=true" width="400" alt="form-gen"/>
-</a>
-<p><strong>CLI Form Generator</strong> - Generate Next.js forms with server actions, Zod validation, and MongoDB integration.</p>
-</div>
-</td>
-</tr>
-</table>
-</div>
-
-## 🛠️ Technology Expertise
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,nodejs,mongodb,python,aws" />
-  
-  ```text
-  Next.js       ███████████████░░   90%
-  React         ███████████████░░   90%
-  TypeScript    ██████████████░░░   85%
-  Node.js       ████████████░░░░░   75%
-  Python        ███████████░░░░░░   70%
-  ```
-</div>
-
-
-## 🤝 Connect & Collaborate
-
-<div align="center">
-  <a href="https://linkedin.com/in/usama-nazir">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/themrsami">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://npmjs.com/~themrsami">
-    <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=themrsami&color=6C63FF&style=flat-square&label=Profile+Views" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=themrsami&style=flat-square&color=blue" alt="Profile views" />
+</p>
 
 ---
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000&height=100&section=footer" />
-</div>
+### 👨‍💻 About Me
+
+I'm a passionate Next.js Developer and Automation Expert with a focus on building scalable, efficient web applications. I specialize in React, TypeScript, and modern full-stack technologies. Always eager to collaborate on innovative projects!
+
+- 🔭 Currently working on advanced UI libraries and CLI tools
+- 🌱 Learning more about AI integration in web development
+- 💬 Ask me about Next.js, Redux, or Tailwind CSS
+- ⚡ Fun fact: I love automating repetitive tasks to save time!
+
+---
+
+### 🛠️ Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+---
+
+### 🚀 My Creations
+
+#### Web Applications
+- **[Portfolio](https://usama.codes)**: My personal portfolio showcasing projects and skills.  
+- **[PakExam](https://pakexam.live)**: A preparation site for CSS, PMS, and PPSC exams.  
+- **[PaperBanao](https://paperbanao.app)**: Automatic paper generator for grades 1 to 12 based on Punjab Textbook Board curriculum.  
+- **[Markdown Master](https://markdownmaster.vercel.app)**: A markdown editor with AI capabilities for creating, editing, and saving documents.
+
+#### Published Libraries
+- **NPM Packages**:
+  - **[equamistry](https://www.npmjs.com/package/equamistry)**: A library for equation manipulation and chemistry-related computations.  
+    ![npm version](https://img.shields.io/npm/v/equamistry?style=flat-square) ![npm downloads](https://img.shields.io/npm/dw/equamistry?style=flat-square)
+  - **[samlibs-generate-password](https://www.npmjs.com/package/samlibs-generate-password)**: A customizable password generator for secure applications.  
+    ![npm version](https://img.shields.io/npm/v/samlibs-generate-password?style=flat-square) ![npm downloads](https://img.shields.io/npm/dw/samlibs-generate-password?style=flat-square)
+
+- **PyPI Packages**:
+  - **[samlibs-generate-password](https://pypi.org/project/samlibs-generate-password/)**: Python version of the password generator library.  
+    ![PyPI version](https://img.shields.io/pypi/v/samlibs-generate-password?style=flat-square) ![PyPI downloads](https://img.shields.io/pypi/dw/samlibs-generate-password?style=flat-square)
+  - **[json2dir](https://pypi.org/project/json2dir/)**: Convert JSON structures into directory trees.  
+    ![PyPI version](https://img.shields.io/pypi/v/json2dir?style=flat-square) ![PyPI downloads](https://img.shields.io/pypi/dw/json2dir?style=flat-square)
+
+#### Chrome Extension
+- **[Smart Clipboard Manager](https://chromewebstore.google.com/detail/smart-clipboard-manager/enahmpcfdkeaabgemnfbgabgfnfdmeac)**: An efficient tool for managing clipboard history and quick access.  
+  ![Chrome Web Store version](https://img.shields.io/chrome-web-store/v/enahmpcfdkeaabgemnfbgabgfnfdmeac?style=flat-square) ![Chrome Web Store users](https://img.shields.io/chrome-web-store/users/enahmpcfdkeaabgemnfbgabgfnfdmeac?style=flat-square) ![Chrome Web Store rating](https://img.shields.io/chrome-web-store/rating/enahmpcfdkeaabgemnfbgabgfnfdmeac?style=flat-square)
+
+---
+
+### 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/usama-nazir"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/themrsami"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://npmjs.com/~themrsami"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" /></a>
+</p>
