@@ -55,9 +55,18 @@ I'm a passionate Next.js Developer and Automation Expert with a focus on buildin
   - **[json2dir](https://pypi.org/project/json2dir/)**: Convert JSON structures into directory trees.  
     ![PyPI version](https://img.shields.io/pypi/v/json2dir?style=flat-square) ![PyPI downloads](https://img.shields.io/pypi/dw/json2dir?style=flat-square)
 
-#### Chrome Extension
-- **[Smart Clipboard Manager](https://chromewebstore.google.com/detail/smart-clipboard-manager/enahmpcfdkeaabgemnfbgabgfnfdmeac)**: An efficient tool for managing clipboard history and quick access.  
-  ![Chrome Web Store version](https://img.shields.io/chrome-web-store/v/enahmpcfdkeaabgemnfbgabgfnfdmeac?style=flat-square) ![Chrome Web Store users](https://img.shields.io/chrome-web-store/users/enahmpcfdkeaabgemnfbgabgfnfdmeac?style=flat-square) ![Chrome Web Store rating](https://img.shields.io/chrome-web-store/rating/enahmpcfdkeaabgemnfbgabgfnfdmeac?style=flat-square)
+#### Chrome Extensions — Modulus Tools
+
+- **[Imagus](https://chromewebstore.google.com/detail/imagus/bdlicplmkecjmlefjndmgfgcdnilocio)**: Preview larger images on hover without opening a new tab.
+- **[AutoplayStopper](https://chromewebstore.google.com/detail/autoplaystopper/njbikmhihfdomkfimalmkfcnmjcooihp)**: Control unexpected video and audio autoplay with per-website rules.
+- **[Linkclump](https://chromewebstore.google.com/detail/linkclump/leophljmgneicoeeclgggbojeajbdbio)**: Drag-select groups of links to open or copy them in one action.
+- **[DownAlbum](https://chromewebstore.google.com/detail/downalbum/lokcefdcipipcemdpcndendbdjbmacpk)**: Collect gallery images, review your selection, and download image files in batches.
+
+#### WordPress Plugin
+
+- **[ModulusTools SEO Suite](https://wordpress.org/plugins/modulustools-seo-suite/)**: A modular WordPress SEO toolkit for titles, descriptions, sitemaps, structured data, redirects, and internal-link checks.
+
+Explore product details, setup guides, and privacy policies at **[Modulus Tools](https://modulustools.com)**.
 
 ---
 
