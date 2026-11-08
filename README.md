@@ -1,57 +1,74 @@
-## Hi, I'm Usama
+<div align="center">
 
-Next.js developer from Lahore, Pakistan. I studied physics, then fell for JavaScript and never looked back.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><img src="assets/header-light.svg" alt="Usama Nazir. Next.js developer in Lahore, Pakistan. Open to remote roles and freelance projects."></picture>
 
-I build tools people actually use.
+</div>
 
----
+<br>
 
-### What I'm working on
+I build web apps and tools that people use in their daily work. I studied physics, so I break problems down, test every assumption, and **keep going until they work.**
 
-**Punjab Charities Commission** (Home Department, Government of the Punjab)
-- An Audit Management System built with Next.js and Supabase. 15 charities audited through it so far.
-- A chatbot built with Next.js and Neon that guides charities. 100+ users so far.
+<br>
 
-Both are live and I keep improving them.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" alt="Next.js, React, TypeScript, Tailwind CSS, Node.js, Supabase, PostgreSQL, Neon, Chrome MV3, WordPress, PHP, Python, Vue"></picture>
 
-**[Modulus Tools](https://modulustools.com)**
-My own small software studio. I publish Chrome extensions and a WordPress plugin.
+<br><br>
 
-| Product | What it does |
-| --- | --- |
-| [Imagus](https://chromewebstore.google.com/detail/imagus/bdlicplmkecjmlefjndmgfgcdnilocio) | Preview larger images on hover |
-| [AutoplayStopper](https://chromewebstore.google.com/detail/autoplaystopper/njbikmhihfdomkfimalmkfcnmjcooihp) | Stop video and audio autoplay, per site |
-| [Linkclump](https://chromewebstore.google.com/detail/linkclump/leophljmgneicoeeclgggbojeajbdbio) | Drag to select and open many links at once |
-| [DownAlbum](https://chromewebstore.google.com/detail/downalbum/lokcefdcipipcemdpcndendbdjbmacpk) | Collect and download gallery images in batches |
-| [ModulusTools SEO Suite](https://wordpress.org/plugins/modulustools-seo-suite/) | WordPress SEO: meta, sitemaps, schema, redirects |
-
-Need a custom Chrome extension? [Get in touch](https://modulustools.com).
-
----
-
-### What I work with
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-work-dark.svg"><img src="assets/title-work-light.svg" alt="Selected work"></picture>
 
 <p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Chrome_Extensions-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Extensions" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-audit-dark.svg"><img src="assets/card-audit-light.svg" alt="Audit Management System for the Punjab Charities Commission. 15 charities audited." width="49%"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-chat-dark.svg"><img src="assets/card-chat-light.svg" alt="Charity Process Chatbot for the Punjab Charities Commission. 100+ users helped." width="49%"></picture>
+</p>
+<p>
+  <a href="https://wordpress.org/plugins/modulustools-seo-suite/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-seo-dark.svg"><img src="assets/card-seo-light.svg" alt="ModulusTools SEO Suite, a WordPress plugin on WordPress.org." width="49%"></picture></a>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-paper-dark.svg"><img src="assets/card-paper-light.svg" alt="PaperBanao, exam papers for grades 1 to 12." width="49%"></picture>
 </p>
 
-I also automate boring tasks with Python, debug and test things until they break, and use AI every day to learn and ship faster.
+The first two are in daily use at the **Punjab Charities Commission** (Home Department, Government of the Punjab), where I joined in January 2026. I designed and built both and keep improving them.
 
----
+<br>
 
-### Reach me
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-studio-dark.svg"><img src="assets/title-studio-light.svg" alt="Small tools, sharp edges"></picture>
 
-- Email: usamanazir13@gmail.com
-- LinkedIn: [usamanazir13](https://linkedin.com/in/usamanazir13)
-- Website: [modulustools.com](https://modulustools.com)
+**[Modulus Tools](https://modulustools.com)** is my small software studio. It publishes browser extensions on the Chrome Web Store. Click a card to install.
 
-Open to remote roles and freelance work.
+<p>
+  <a href="https://chromewebstore.google.com/detail/imagus/bdlicplmkecjmlefjndmgfgcdnilocio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ext-imagus-dark.svg"><img src="assets/ext-imagus-light.svg" alt="Imagus. Get it from Chrome." width="49%"></picture></a>
+  <a href="https://chromewebstore.google.com/detail/autoplaystopper/njbikmhihfdomkfimalmkfcnmjcooihp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ext-autoplay-dark.svg"><img src="assets/ext-autoplay-light.svg" alt="AutoplayStopper. Get it from Chrome." width="49%"></picture></a>
+</p>
+<p>
+  <a href="https://chromewebstore.google.com/detail/linkclump/leophljmgneicoeeclgggbojeajbdbio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ext-linkclump-dark.svg"><img src="assets/ext-linkclump-light.svg" alt="Linkclump. Get it from Chrome." width="49%"></picture></a>
+  <a href="https://chromewebstore.google.com/detail/downalbum/lokcefdcipipcemdpcndendbdjbmacpk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ext-downalbum-dark.svg"><img src="assets/ext-downalbum-light.svg" alt="DownAlbum. Get it from Chrome." width="49%"></picture></a>
+</p>
+
+Need an extension built for your team? &nbsp;→&nbsp; **[Build one with Modulus Tools](https://modulustools.com/build-an-extension)**
+
+<br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-path-dark.svg"><img src="assets/title-path-light.svg" alt="Lab bench to browser"></picture>
+
+| When | What |
+| :-- | :-- |
+| `2023` | **BS Physics**, COMSATS University Lahore. CGPA 3.26. Final year project: strontium ferrite nanoparticles by sol-gel auto-combustion. |
+| `2023` | **Certificate in IT**, KICS, UET Lahore. JavaScript was the part that pulled me in. |
+| `2024–25` | **Self-taught**: JavaScript → React → Next.js. Built projects, threw them away, built better ones. |
+| `2025` | **AI joins the workflow.** It helps me learn and ship faster. I still read, test and fix the code. |
+| `Jan 2026` | **Computer Operator**, Punjab Charities Commission. Built two systems now in daily use. |
+| `Oct 2026` | **Founded [Modulus Tools](https://modulustools.com).** Extensions, a WordPress plugin, and custom work for clients. |
+
+<br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-dark.svg"><img src="assets/contact-light.svg" alt="Got something messy? Let's make it work."></picture>
+
+<p align="center">
+  <a href="mailto:usamanazir13@gmail.com"><b>usamanazir13@gmail.com</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/usamanazir13">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://modulustools.com">modulustools.com</a>
+  &nbsp;·&nbsp;
+  +92 312 4156411
+</p>
+
+<p align="center"><sub>Open to remote roles and freelance projects. Also applying for scholarships to study abroad.</sub></p>
